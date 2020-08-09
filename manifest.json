@@ -1,0 +1,7 @@
+{
+  "name": "Police Radar Database",
+  "short_name": "Police Radar",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "start_url": "/app/"
+}
